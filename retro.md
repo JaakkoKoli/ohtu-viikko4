@@ -1,4 +1,4 @@
-##Retrospektiivitekniikat
+# Retrospektiivitekniikat
 (tiivistelmä)
 
 "Start, Stop, Continue, More of, Less of Wheel" on retrospektiivitekniikka, jossa osallistujat keräävät ideoita eräänlaiseen julisteeseen 
